@@ -1,1 +1,1 @@
-print('ALO BLYAT') 
+a = []
